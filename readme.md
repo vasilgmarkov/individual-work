@@ -8,3 +8,4 @@
 * Permissions
 * Exercises
 * Automated testing
+* Upload screenshots to the comunity
